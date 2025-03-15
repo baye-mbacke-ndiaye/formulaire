@@ -23,11 +23,15 @@ input{
     padding: 5px;
 } 
 button{
-    padding: 5px;
+    padding: 7px;
     background-color:blue ;
     color: white;
     border-radius: 5px;
     border: none;
+}
+button:hover{
+    background-color: white;
+    color: blue;
 }
 h3{
     text-align: center;
